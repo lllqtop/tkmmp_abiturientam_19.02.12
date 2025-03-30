@@ -226,7 +226,6 @@ menu, ol, ul {
 
 ._23-02-07___2701-1 {
   border-radius: 2.5rem;
-  opacity: 0.7;
   width: 22.5rem;
   height: 25rem;
   position: absolute;
